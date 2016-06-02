@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLib", "TestLib\TestLib.vcxproj", "{255761B9-A3EA-46A4-9502-1387C8BAED42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartHouseModules", "SmartHouseModules\SmartHouseModules.vcxproj", "{DD252A4E-F47F-45BE-BD8F-2AD2A864A8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255761B9-A3EA-46A4-9502-1387C8BAED42}.Debug|x86.ActiveCfg = Debug|Win32
+		{255761B9-A3EA-46A4-9502-1387C8BAED42}.Debug|x86.Build.0 = Debug|Win32
+		{255761B9-A3EA-46A4-9502-1387C8BAED42}.Release|x86.ActiveCfg = Release|Win32
+		{255761B9-A3EA-46A4-9502-1387C8BAED42}.Release|x86.Build.0 = Release|Win32
+		{DD252A4E-F47F-45BE-BD8F-2AD2A864A8A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD252A4E-F47F-45BE-BD8F-2AD2A864A8A4}.Debug|x86.Build.0 = Debug|Win32
+		{DD252A4E-F47F-45BE-BD8F-2AD2A864A8A4}.Release|x86.ActiveCfg = Release|Win32
+		{DD252A4E-F47F-45BE-BD8F-2AD2A864A8A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
